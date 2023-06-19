@@ -15,9 +15,13 @@ https://www2.census.gov/geo/tiger/TIGER2020/UAC/
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
+
 7-8GHz IMT (like) Deployment
+
 For Urban Areas: 1 Base Station per Census Tract. --> Annex 4.4 (like) deployment
+
 For Urban Clusters:  1 Base Station per Census Tract. --> Annex 4.4 (like) deployment
+
 In Rural Areas: "single-entry" analysis
 
 
